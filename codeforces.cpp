@@ -1,9 +1,9 @@
 // Vaibhav Kesarwani
 //Linkedin: https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/
-//Portfolio: https://portfolio-murex-five-90.vercel.app/
-//Codeforces: https://codeforces.com/profile/vaibhav_kesarwani_
-//Codechef: https://www.codechef.com/users/vaibhav_kesarr
-//Leetcode: https://leetcode.com/u/vaibhav_kesarwani_/
+//Portfolio: https://vaibhav-kesarwani.vercel.app/
+//Codeforces: https://codeforces.com/profile/Phoenix_Blaze
+//Codechef: https://www.codechef.com/users/phoenixblaze
+//Leetcode: https://leetcode.com/u/phoenix_blaze/
 
 #include <iostream>
 #include <bits/stdc++.h>
