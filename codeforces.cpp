@@ -119,7 +119,7 @@ void solution()
 int main()
 {
     Code By Vaibhav
-    // ll t; cin>>t; fl(i,t) 
+    ll t; cin>>t; fl(i,t) 
         solution();
 
     return 0;
